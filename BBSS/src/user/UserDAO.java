@@ -43,4 +43,9 @@ public class UserDAO {
 		}
 		return -2; //데이터베이스 오류
 	}
+	
+	public static void main(String[] args) {
+		UserDAO() 여기서 호출해서 자바 런해서 확인바람
+		
+	}
 }
